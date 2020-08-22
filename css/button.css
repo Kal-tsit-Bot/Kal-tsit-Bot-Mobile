@@ -1,7 +1,9 @@
 
 .back {
-    float: left;
     padding: 0 5px 5px 5px;
+    width: 100px;
+    margin: 0 auto;
+    text-align: left;
 }
 
 .button_base {
